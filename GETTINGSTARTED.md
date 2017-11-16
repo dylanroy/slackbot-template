@@ -2,6 +2,11 @@
 This documentation has instructions on how to get a very basic bot setup in your local environment. It is by no means complete, but should result in a functioning bot and local development environment.
 
 ## Step 1: Install Requirements
+Before doing anything else we must clone this repo, and navigate to its parent directory so that we can leverage the boilerplate code that has be written for us.
+```
+git clone https://github.com/dylanroy/slackbot-template.git
+```
+
 For local development efforts a public url will be needed. The easiest way to do this with the least amount of latency would be to use a tool like ngrock or localtunnel. For these instructions, and this template we will be using localtunnel. Use the command below if you have node installed. Specifically this demo we are using the Node Version Manager which will be used throughout this template. This is by no means a requirement for a successfull creation of a development environment.
 ```
 nvm use stable
