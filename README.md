@@ -5,5 +5,7 @@ This is a template for a very simple Slack Bot.
 To get started quickly navigate to the [Getting Started Documentation](GETTINGSTARTED.md).
 
 ## Todo
-* Deploying to Google App Engine (GAE)
-* Additional Bot Features
+ * Webhook IPython Notebook
+ * Deploying to Google App Engine (GAE)
+ * Additional Bot Features
+   * Interactive Messages
