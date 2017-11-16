@@ -48,4 +48,10 @@ Navigate to OAuth & Permissions under the Features navigation menu, and click on
 <img src="images/hello-command.png"><br>
 
 ## Step 5: Setup Permissions & Scopes
-This template has multiple options for different commands that use additional functionality and message formatting features. Just switch out the `Request URL` in the user interface to test these out.
+This template has multiple options for different commands that use additional functionality and message formatting features. Just switch out the `Request URL` in the user interface to test these out.  
+
+There are prebuilt command responses at the following endpoints in `bots.py`:  
+  - [/hello/](bot.py#L17)
+  - [/hello-name/](bot.py#L23)
+  - [/hello-echo/](bot.py#L42)
+  - [/hello-attachment/](bot.py#L49)
