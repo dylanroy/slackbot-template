@@ -40,7 +40,7 @@ Now we need to create our bot on the Slack Platform. We do this by navigating to
 
 Following the creation of the bot we then want to add slash command functionality to this bot. This allows users to interact with our bot via a predefined slash command. We do this by navigating to the Slash Commands link under Features. After which we will click the Create New Command button. Once we are prompted to enter information for this command we will be using the slash command /hello. The next field is where our localtunnel url comes into play. For the Request URL provide that url in that field. After which provide a Short Description and Usage Hint before submitting the new slash command.
 
-<img src="images/create-slash-command.png" height="450"><br>
+<img src="images/create-slash-command.png" width="275"><br>
 
 ## Step 4: Install Slack Bot
 Navigate to OAuth & Permissions under the Features navigation menu, and click on the Install App to Workspace button. Navigate to Slack, and test out the command by typing /hello. 
