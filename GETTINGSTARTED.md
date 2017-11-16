@@ -34,7 +34,8 @@ lt --port 5000
 ```
 
 ## Step 3: Bot Creation
-Now we need to create our bot on the Slack Platform. We do this by navigating to https://api.slack.com/ and clicking the Start Building Button. We are then prompted to input an App Name that can be changed later, and what Slack organization we want to start our development in.
+Now we need to create our bot on the Slack Platform. We do this by navigating to https://api.slack.com/ and clicking the Start Building Button. We are then prompted to input an App Name that can be changed later, and what Slack organization we want to start our development in.  
+![alt text](images/create-bot-dialog.png.png "Creating Slack Bot Dialog")
 
 Following the creation of the bot we then want to add slash command functionality to this bot. This allows users to interact with our bot via a predefined slash command. We do this by navigating to the Slash Commands link under Features. After which we will click the Create New Command button. Once we are prompted to enter information for this commandwe will be using the slash command /hello. The next field is where our localtunnel url comes into play. For the Request URL provide that url in that field. After which provide a Short Description and Usage Hint before submitting the new slash command.
 
