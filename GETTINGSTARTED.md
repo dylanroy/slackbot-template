@@ -45,7 +45,7 @@ Following the creation of the bot we then want to add slash command functionalit
 ## Step 4: Install Slack Bot
 Navigate to OAuth & Permissions under the Features navigation menu, and click on the Install App to Workspace button. Navigate to Slack, and test out the command by typing /hello. 
 
-<img src="images/hello-command.png" height="450"><br>
+<img src="images/hello-command.png"><br>
 
 ## Step 5: Setup Permissions & Scopes
 This template has multiple options for different commands that use additional functionality and message formatting features. Just switch out the `Request URL` in the user interface to test these out.
